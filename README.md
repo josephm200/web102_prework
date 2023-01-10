@@ -19,7 +19,7 @@ The following **optional** features are implemented:
 
 * [ X ] Updated CSS for hovering over stat cards and buttons 
     (cards and buttons highlighted with more vibrant colors and
-    general colors changed to be more visually appealing to the user)
+    general container colors updated to be more visually appealing to the user)
 
 ## Video Walkthrough
 
@@ -28,7 +28,7 @@ Here's a walkthrough of implemented features:
 <img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
-GIF created with ...  
+GIF created with LICEcap
 <!-- Recommended tools:
 [Kap](https://getkap.co/) for macOS
 [ScreenToGif](https://www.screentogif.com/) for Windows
@@ -37,6 +37,9 @@ GIF created with ...
 ## Notes
 
 Describe any challenges encountered while building the app.
+
+Refreshing on web dev skills and learning a few new tricks took some time but overall was
+a very fun and informative experience.
 
 ## License
 
